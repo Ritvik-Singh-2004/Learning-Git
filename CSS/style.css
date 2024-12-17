@@ -1,0 +1,9 @@
+div{
+    color: blue;
+    border: 2px dotted gold;
+    height: 50px;
+    width: 150px;
+    text-align: center;
+    padding-top: 25px;
+    font-style: italic;
+}
